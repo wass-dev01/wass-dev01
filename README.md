@@ -1,4 +1,4 @@
-## 👋 Hey, I'm [Wassim]
+## 👋 Hey, I'm Wassim
 
 🎓 French student & self-taught developer  
 🐍 Python enthusiast | 🌐 Web developer | 🔐 Cybersecurity curious  
